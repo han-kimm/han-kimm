@@ -19,13 +19,6 @@ https://github.com/han-kimm/vegwins-fe
 
 <hr/>
 
-## 🔭 학습한 기술 스택
-<br/><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> <br/> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
-<br/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-<hr/>
-
 ## 🌟 일하고 싶은 서비스
 1. 기후 위기에 정면으로 맞설 수 있는 서비스. 환경 그리고 농업, 탄소배출 등등...
 2. 웹에 국한되지 않은 서비스
