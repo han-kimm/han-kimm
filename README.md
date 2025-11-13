@@ -1,7 +1,8 @@
-웹 + AI 개발자
+Web and AI service Developer
 
-타입스크립트를 주로 사용하고,
-오픈소스 모델이 필요한 경우 파이썬을 씁니다.
+Language / Typescript (main), Python
+Skills / React, Next.js, Express.js, FastAPI, Langchain
+Knowledge / MySQL, MongoDB, TypeORM, Tensorflow, Pytorch, Mlflow, ElasticSearch, Kafka, Docker
 
-개발자에게 기술은 세상에 영향을 끼쳐야 가치가 생긴다고 믿습니다.
-지금 개발하는 게 누구에게 의미 있는 일인지가 중요합니다.
+Using technology to make people more happy is important to me.
+Just technology is for scholar and hobby. I also like it but need to get paid :>
